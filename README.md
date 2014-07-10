@@ -3,7 +3,7 @@ Build Python 2.7 deb for Ubuntu
 
 Build it with:
 
-docker build .
+make build
 
 Python is installed in /opt/python2.7.7/bin/python2.7
 
